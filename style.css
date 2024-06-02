@@ -17,6 +17,7 @@ h2::before{
     display: inline-block;
     width: 10px;
     height: 10px;
+    
 }
 footer{
     background-image: linear-gradient(to right, lightgreen, OliveDrab, green, darkgreen);
@@ -37,3 +38,9 @@ footer a{
 main{
     background-color: #ecffc7;
 }
+h2{
+color: rgb(0, 64, 14)
+}
+
+
+
